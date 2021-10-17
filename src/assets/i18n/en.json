@@ -1,0 +1,12 @@
+{
+  "FORM": {
+    "TITLE": "Title",
+    "PRIORITY": "Priority",
+    "SAVE": "Save",
+    "EDIT_AGAIN": "Edit again"
+  },
+  "LIST": {
+    "EDIT": "Edit",
+    "DELETE": "Delete"
+  }
+}

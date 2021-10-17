@@ -1,0 +1,21 @@
+.container{
+  max-width: 800px;
+  border: 1px solid silver;
+  background: ghostwhite;
+  margin-top: 10px;
+}
+.task-list {
+  margin: 15px 0;
+  background: gold;
+  padding: 10px;
+}
+form{
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.cross{
+  text-decoration: line-through;
+}
+.alert{
+  margin-bottom: 0!important;
+}

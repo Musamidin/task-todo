@@ -1,6 +1,5 @@
-{
-  '/api': {
-  'target': 'http://yii2todo',
-  'secure': false
- }
+{"/": {
+"target": "http://yii2todo",
+"secure": false
+}
 }
